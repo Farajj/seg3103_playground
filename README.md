@@ -15,6 +15,11 @@ Demoninator: 2
 10 / 2 = 5
 Numerator: exit
 
+Code run:
+<img width="566" alt="java" src="https://user-images.githubusercontent.com/16924891/119040279-37071f00-b983-11eb-8f77-9cef906a297d.png">
+
+
+
 
 
 
@@ -27,6 +32,11 @@ Then I run the tests using
 
 java -jar lib/junit-platform-console-standalone-1.7.1.jar --class-path dist --scan-class-path
 
+Code run:
+
+<img width="645" alt="junit" src="https://user-images.githubusercontent.com/16924891/119040262-2f477a80-b983-11eb-820b-34ad1926c87b.png">
+
+
 
 
 
@@ -38,3 +48,6 @@ mix compile
 Then I run it
 
 iex -S mix
+
+Code run:
+<img width="512" alt="elixir_iex" src="https://user-images.githubusercontent.com/16924891/119040173-1343d900-b983-11eb-8cb2-7141a6627f1c.PNG">

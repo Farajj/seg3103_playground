@@ -18,3 +18,10 @@ class FizzbuzzTest {
         
     }
 }
+ 
+ @Test
+    void test_3() {
+		assertEquals("Fizz", fizz.fizzbuzzNum(6));
+        
+    }
+}

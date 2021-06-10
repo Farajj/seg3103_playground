@@ -38,7 +38,7 @@ class FizzbuzzTest {
 
  @Test
     void test_6() {
-		assertEquals("Buzz", fizz.fizzbuzzNum(29));
+		assertEquals("Buzz", fizz.fizzbuzzNum(35));
         
     }
 }

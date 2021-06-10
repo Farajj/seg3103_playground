@@ -7,6 +7,7 @@ class FizzbuzzTest {
 
     @Test
     void test_1() {
+		assertEquals("15", fizz.fizzbuzzNum(15));
         
     }
 }

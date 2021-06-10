@@ -32,7 +32,7 @@ class FizzbuzzTest {
 
  @Test
     void test_5() {
-		assertEquals("Buzz", fizz.fizzbuzzNum(7));
+		assertEquals("7", fizz.fizzbuzzNum(7));
         
     }
 }

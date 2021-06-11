@@ -5,7 +5,7 @@ Farajj Gtat, 8242966
 
 ## Problem 1
 
-###Question 1.1
+### Question 1.1
 
 percentage_grade
 ![percentage_grade](assets/1a.png)
@@ -17,7 +17,7 @@ numeric_grade
 ![numeric_grade](assets/1c.png)
 
 
-###Question 1.2
+### Question 1.2
 
 
 | Test Case | Test Data                                                          | Expected Result | Conditions Covered | Branches Covered                  |
@@ -51,11 +51,11 @@ numeric_grade
 |     24    | homework = [0.4]  labs = [1,1,1]  midterm = .4 final = .4          |        2        |        15/27       | A,C,D,F,G,I,J,K,L,M,N,O,P,Q,R,S   |
 |     25    | homework = [0.4]  labs = [.5,.5,.5]  midterm = .4 final = .4       |        1        |        16/27       | A,C,D,F,G,I,J,K,L,M,N,O,P,Q,R,S,T |
 
-###Question 1.3
+### Question 1.3
 
 Code located in calculator_test.exs
 
-###Question 1.4
+### Question 1.4
 
 We managed to achieve 100% in statement coverage in addition to 100% in branch coverage. Following is a screenshot of the calculator coverage.
 
@@ -64,6 +64,6 @@ We managed to achieve 100% in statement coverage in addition to 100% in branch c
 
 
 
-##Problem 2
+## Problem 2
 
 Refactored code located in calculator.ex

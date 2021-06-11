@@ -9,12 +9,15 @@ Farajj Gtat, 8242966
 
 percentage_grade
 ![percentage_grade](assets/1a.png)
+![flowchart](assets/1aflow.png)
 
 letter_grade
 ![letter_grade](assets/1b.png)
+![flowchart](assets/1bflow.png)
 
 numeric_grade
 ![numeric_grade](assets/1c.png)
+![flowchart](assets/1cflow.png)
 
 
 ### Question 1.2
